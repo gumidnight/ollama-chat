@@ -57,6 +57,6 @@ a. Branding & UI Customization
 b. Enable Ldap Login
 c.Data Privacy & Logging
 d. Performance & Scaling
-
+e. Use GPT‑4 API
 
 
